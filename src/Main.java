@@ -118,7 +118,7 @@ public class Main {
         }
 
         int pasos = camino.tamanio() - 1;
-        int distancia = dijkstra.getDistancia(salidaF, salidaC);
+        int distancia = dijkstra.obtenerDistanciaMinima(salidaF, salidaC);
 
         // Mostrar resultados
         System.out.println("✓ Camino encontrado con Dijkstra");
