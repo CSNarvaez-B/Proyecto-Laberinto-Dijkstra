@@ -3,7 +3,6 @@ package algoritmos;
 import estructuras.ColaPrioridad;
 import estructuras.ListaEnlazada;
 import modelo.NodoColaPrioridad;
-
 /**
  * Implementación del algoritmo de Dijkstra para encontrar
  * el camino de menor distancia dentro del laberinto.

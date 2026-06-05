@@ -178,7 +178,13 @@ La implementación, validación, pruebas y adaptación final del código fueron 
 
 
 ---
+## 🎥 Manual de Usuario
 
+Para conocer el funcionamiento del sistema, la generación de laberintos, la resolución mediante el algoritmo de Dijkstra y las diferentes funcionalidades disponibles, consulta el video del manual de usuario:
+
+🔗 **Video en YouTube:**  
+https://www.youtube.com/watch?v=tQfnoxZGOYI
+---
 ## Licencia
 
 Este proyecto se distribuye bajo la licencia MIT con fines académicos y educativos.
